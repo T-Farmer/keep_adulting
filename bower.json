@@ -1,0 +1,17 @@
+{
+  "name": "keep-adulting",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "T-Farmer <terrillfarmer@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/T-Farmer/keep_adulting",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
