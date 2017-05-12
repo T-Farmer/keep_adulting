@@ -1,5 +1,6 @@
 //homeCtrl
 
+//model cardCtrl same way
 angular.module('assessment').controller('mainCtrl', mainCtrl);
 
 mainCtrl.inject = ['$location', '$rootScope', '$window', 'Notes', '$http'];
